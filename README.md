@@ -82,44 +82,23 @@ Contributed to multiple projects using JavaScript technologies including **Node.
 Assisted in developing websites using **WordPress and backend tools**, gaining foundational experience in web development.
 
 ---
+## 💼 Professional Projects
 
-## 🚀 Projects
+I've contributed to multiple production applications as part of my professional software engineering experience.
 
-### Card Web App Backend
+Some of these projects are **private/company-owned**, so their source code cannot be publicly shared. The projects below represent technologies and areas I've worked with professionally:
 
-**Technology:** Nest.js
+| Project                      | Technologies            |
+| ---------------------------- | ----------------------- |
+| Card Web App Backend         | Nest.js                 |
+| McGrath Web App Backend      | Nest.js                 |
+| Tribl Platform & Back Office | Next.js, React, Node.js |
+| Optima CRM                   | Nest.js                 |
+| MDC — Meter Data Collection  | React.js                |
+| Droozi                       | Node.js                 |
 
-Backend application developed using Nest.js.
+> 🔒 Source code for professional projects is private and cannot be publicly shared due to company ownership and confidentiality.
 
-### McGrath Web App Backend
-
-**Technology:** Nest.js
-
-Backend application developed using Nest.js.
-
-### Tribl Platform & Back Office
-
-**Technology:** Next.js · React · Node.js
-
-Full-stack platform and back-office application using modern frontend and backend technologies.
-
-### Optima CRM
-
-**Technology:** Nest.js
-
-CRM backend application developed using Nest.js.
-
-### MDC — Meter Data Collection
-
-**Technology:** React.js
-
-Web application focused on meter data collection.
-
-### Droozi
-
-**Technology:** Node.js
-
-Backend application developed using Node.js.
 
 ---
 
